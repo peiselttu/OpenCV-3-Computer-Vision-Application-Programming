@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Chapter01",
+    "\\Chapter01\\Exp01",
+    "\\Chapter01\\Exp01\\Exp01"
   ],
+  "SelectedNode": "\\Chapter01\\Exp01\\Exp01\\logo.cpp",
   "PreviewInSolutionExplorer": false
 }
